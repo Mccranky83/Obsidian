@@ -14,21 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "704fa810cadd225f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Uninstall UI.Vision XModules.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uninstall UI.Vision XModules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uninstall UI.Vision XModules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,13 +118,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Uninstall UI.Vision XModules.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "04c69a781f636084",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -155,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "704fa810cadd225f",
+  "active": "e4a8b5a8bfde133b",
   "lastOpenFiles": [
     "Uninstall UI.Vision XModules.md",
     "Command to zip multiple directories into individual zip files.md",
