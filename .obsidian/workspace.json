@@ -4,27 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4ae2b8f90bdb4fb1",
+        "id": "40dcbd2888b85dc2",
         "type": "tabs",
         "children": [
           {
-            "id": "ee420948e99c22cd",
+            "id": "2afbce23a7851974",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "49d6d2d6f927af24",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,25 +112,9 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "5866d76f38358419",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "09f0b8db72452ae4",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -155,7 +130,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49d6d2d6f927af24",
+  "active": "38d2b29aee82d15a",
   "lastOpenFiles": [
     "Remove existing .DS_Store from a directory.md",
     "Untitled 1.md"
