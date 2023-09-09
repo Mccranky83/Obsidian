@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "205768134b9672dc",
+        "id": "4b02aeb7c74f496a",
         "type": "tabs",
         "children": [
           {
-            "id": "1509c5429bc42f3f",
+            "id": "8d3766a27fd46067",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -112,25 +112,9 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "fd9fc4de46b4cf0e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "04c69a781f636084",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -146,7 +130,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4a8b5a8bfde133b",
+  "active": "38d2b29aee82d15a",
   "lastOpenFiles": [
     "Uninstall UI.Vision XModules.md",
     "Command to zip multiple directories into individual zip files.md",
