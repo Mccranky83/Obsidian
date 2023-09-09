@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4b02aeb7c74f496a",
+        "id": "6cdde63e40f04177",
         "type": "tabs",
         "children": [
           {
-            "id": "8d3766a27fd46067",
+            "id": "6b133b354d60c69e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Remove existing .DS_Store from a directory.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Remove existing .DS_Store from a directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Remove existing .DS_Store from a directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Remove existing .DS_Store from a directory.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -146,12 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d3766a27fd46067",
+  "active": "6b133b354d60c69e",
   "lastOpenFiles": [
+    "Remove existing .DS_Store from a directory.md",
     "Untitled.md",
     "Command to zip multiple directories into individual zip files.md",
     "Uninstall UI.Vision XModules.md",
-    "Remove existing .DS_Store from a directory.md",
     "Untitled 1.md"
   ]
 }
