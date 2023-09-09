@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Command to zip multiple directories into individual zip files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Command to zip multiple directories into individual zip files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Command to zip multiple directories into individual zip files.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -146,10 +144,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d3766a27fd46067",
+  "active": "bbe1f70046beaeca",
   "lastOpenFiles": [
-    "Uninstall UI.Vision XModules.md",
     "Command to zip multiple directories into individual zip files.md",
+    "Untitled.md",
+    "Uninstall UI.Vision XModules.md",
     "Remove existing .DS_Store from a directory.md",
     "Untitled 1.md"
   ]
