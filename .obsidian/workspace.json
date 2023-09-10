@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6cdde63e40f04177",
+        "id": "d9a4e831abb2876e",
         "type": "tabs",
         "children": [
           {
-            "id": "6b133b354d60c69e",
+            "id": "d6ee6052e00f876c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b133b354d60c69e",
+  "active": "d6ee6052e00f876c",
   "lastOpenFiles": [
     "Remove existing .DS_Store from a directory.md",
     "Untitled.md",
