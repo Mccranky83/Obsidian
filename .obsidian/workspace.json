@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d9a4e831abb2876e",
+        "id": "ee5f348d7363c00e",
         "type": "tabs",
         "children": [
           {
-            "id": "d6ee6052e00f876c",
+            "id": "2fc8658a18694110",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,12 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6ee6052e00f876c",
+  "active": "2fc8658a18694110",
   "lastOpenFiles": [
-    "Remove existing .DS_Store from a directory.md",
-    "Untitled.md",
-    "Command to zip multiple directories into individual zip files.md",
     "Uninstall UI.Vision XModules.md",
+    "Remove existing .DS_Store from a directory.md",
+    "Command to zip multiple directories into individual zip files.md",
+    "Untitled.md",
     "Untitled 1.md"
   ]
 }
