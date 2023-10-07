@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "255afef5c8e1161b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +169,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0063792317de7dc2",
+  "active": "255afef5c8e1161b",
   "lastOpenFiles": [
     "Untitled.canvas",
     "Uninstall UI.Vision XModules.md",
