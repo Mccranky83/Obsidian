@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "09898b1945e72408",
+        "id": "39466df4b22e23aa",
         "type": "tabs",
         "children": [
           {
-            "id": "0063792317de7dc2",
+            "id": "1340b5f74c2d79e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "255afef5c8e1161b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,12 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "255afef5c8e1161b",
+  "active": "1340b5f74c2d79e0",
   "lastOpenFiles": [
+    "Command to zip multiple directories into individual zip files.md",
     "Untitled.canvas",
     "Uninstall UI.Vision XModules.md",
     "Remove existing .DS_Store from a directory.md",
-    "Command to zip multiple directories into individual zip files.md",
     "Untitled.md",
     "Untitled 1.md"
   ]

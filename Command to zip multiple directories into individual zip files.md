@@ -21,3 +21,5 @@ for i in */; do zip -0 -r "${i%/}.zip" "$i" & done; wait
 We use wait to tell the shell to wait for all background tasks to finish before exiting.
 
 Beware that if you have too many folders in your current directory, then you may overwhelm your computer as this code does not limit the number of parallel tasks.
+
+Better still, 
