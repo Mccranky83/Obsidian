@@ -22,4 +22,8 @@ We use wait to tell the shell to wait for all background tasks to finish before 
 
 Beware that if you have too many folders in your current directory, then you may overwhelm your computer as this code does not limit the number of parallel tasks.
 
-Better still, 
+Better still, it is preferable that we change to file extensions to `cbz` instead for better readability.
+
+```bash
+for i in *.zip; do mv "$i" "${i%zip}.cbz"; done
+```
