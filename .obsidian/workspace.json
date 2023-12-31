@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0f5ebed0675da7f7",
+        "id": "5c11fa26bfa8055e",
         "type": "tabs",
         "children": [
           {
-            "id": "aa925b17acc8acf6",
+            "id": "9ad768b947602f9c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -150,13 +150,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa925b17acc8acf6",
+  "active": "9ad768b947602f9c",
   "lastOpenFiles": [
+    "Have Siri read PDF aloud on Mac.md",
+    "Uninstall UI.Vision XModules.md",
     "Command to zip multiple directories into individual zip files.md",
     "Untitled.canvas",
-    "Uninstall UI.Vision XModules.md",
     "Remove existing .DS_Store from a directory.md",
-    "Untitled.md",
     "Untitled 1.md"
   ]
 }
