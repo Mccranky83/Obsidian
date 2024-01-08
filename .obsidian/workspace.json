@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5c11fa26bfa8055e",
+        "id": "23cf72f2541d4505",
         "type": "tabs",
         "children": [
           {
-            "id": "9ad768b947602f9c",
+            "id": "a29c0f8ec4beeb6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Command to zip multiple directories into individual zip files.md",
+                "file": "markdown.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Command to zip multiple directories into individual zip files.md",
+                "file": "markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Command to zip multiple directories into individual zip files.md",
+                "file": "markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Command to zip multiple directories into individual zip files.md"
+                "file": "markdown.md"
               }
             }
           },
@@ -160,12 +160,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ad768b947602f9c",
+  "active": "a29c0f8ec4beeb6a",
   "lastOpenFiles": [
+    "Command to zip multiple directories into individual zip files.md",
+    "markdown.md",
     "Have Siri read PDF aloud on Mac.md",
     "Remove existing .DS_Store from a directory.md",
     "Uninstall UI.Vision XModules.md",
-    "Command to zip multiple directories into individual zip files.md",
     "Untitled.canvas",
     "Untitled 1.md"
   ]
