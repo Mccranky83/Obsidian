@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "048c029b4b832d87",
+        "id": "6fb6d68b9f8e0a89",
         "type": "tabs",
         "children": [
           {
-            "id": "e9440573ac293bbe",
+            "id": "9256fd50edb4b8ea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Untitled 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
             }
           }
         ]
@@ -82,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled 1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled 1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled 1.canvas"
+              }
             }
           },
           {
@@ -152,14 +163,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9440573ac293bbe",
+  "active": "9256fd50edb4b8ea",
   "lastOpenFiles": [
+    "2024-03-26.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Mass renaming downloaded comics.md",
     "Have Siri read PDF aloud on Mac.md",
     "Uninstall UI.Vision XModules.md",
     "Command to zip multiple directories into individual zip files.md",
     "markdown.md",
     "Remove existing .DS_Store from a directory.md",
-    "Untitled.canvas",
     "Untitled 1.md"
   ]
 }
