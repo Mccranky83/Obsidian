@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6fb6d68b9f8e0a89",
+        "id": "ff15bb8fb6cc4732",
         "type": "tabs",
         "children": [
           {
-            "id": "9256fd50edb4b8ea",
+            "id": "16cd125b708b1500",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Mass renaming downloaded comics.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.canvas",
+                "file": "Mass renaming downloaded comics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.canvas",
+                "file": "Mass renaming downloaded comics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.canvas"
+                "file": "Mass renaming downloaded comics.md"
               }
             }
           },
@@ -163,11 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9256fd50edb4b8ea",
+  "active": "16cd125b708b1500",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "2024-03-26.md",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "Mass renaming downloaded comics.md",
     "Have Siri read PDF aloud on Mac.md",
     "Uninstall UI.Vision XModules.md",
