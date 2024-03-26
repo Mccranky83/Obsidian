@@ -1,7 +1,6 @@
 " Have j and k navigate visual lines rather than logical ones
 nmap j gj
 nmap k gk
-nmap jk <ESC>
 " I like using H and L for beginning/end of line
 nmap H ^
 nmap L $
@@ -17,3 +16,5 @@ exmap back obcommand app:go-back
 nmap <C-o> :back
 exmap forward obcommand app:go-forward
 nmap <C-i> :forward
+imap jk <Esc>
+imap JK <Esc> 
