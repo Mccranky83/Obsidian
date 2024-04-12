@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a0453a35273829a8",
+        "id": "c103a9d8d1b91b0c",
         "type": "tabs",
         "children": [
           {
-            "id": "4e470185f94092a5",
+            "id": "28d08514cebdac22",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mass renaming downloaded comics.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mass renaming downloaded comics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mass renaming downloaded comics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mass renaming downloaded comics.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,7 +152,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e470185f94092a5",
+  "active": "28d08514cebdac22",
   "lastOpenFiles": [
     "Mass renaming downloaded comics.md",
     "Untitled.canvas",
