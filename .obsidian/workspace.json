@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c103a9d8d1b91b0c",
+        "id": "c066b1ab71914d5e",
         "type": "tabs",
         "children": [
           {
-            "id": "28d08514cebdac22",
+            "id": "51fda24be2b8e3a6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -152,8 +152,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28d08514cebdac22",
+  "active": "51fda24be2b8e3a6",
   "lastOpenFiles": [
+    "Update all Python Packages.md",
     "Mass renaming downloaded comics.md",
     "Untitled.canvas",
     "2024-03-26.md",
