@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c066b1ab71914d5e",
+        "id": "369af5ec358c0973",
         "type": "tabs",
         "children": [
           {
-            "id": "51fda24be2b8e3a6",
+            "id": "3f1b09bf5518ccf0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Command to zip multiple directories into individual zip files.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Command to zip multiple directories into individual zip files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Command to zip multiple directories into individual zip files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Command to zip multiple directories into individual zip files.md"
+              }
             }
           },
           {
@@ -152,7 +160,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51fda24be2b8e3a6",
+  "active": "3f1b09bf5518ccf0",
   "lastOpenFiles": [
     "Update all Python Packages.md",
     "Mass renaming downloaded comics.md",
