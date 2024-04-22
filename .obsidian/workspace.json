@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Command to zip multiple directories into individual zip files.md",
+                "file": "Mass renaming downloaded comics.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Command to zip multiple directories into individual zip files.md",
+                "file": "Mass renaming downloaded comics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Command to zip multiple directories into individual zip files.md",
+                "file": "Mass renaming downloaded comics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Command to zip multiple directories into individual zip files.md"
+                "file": "Mass renaming downloaded comics.md"
               }
             }
           },
@@ -162,14 +162,14 @@
   },
   "active": "3f1b09bf5518ccf0",
   "lastOpenFiles": [
+    "Uninstall UI.Vision XModules.md",
+    "Command to zip multiple directories into individual zip files.md",
     "Update all Python Packages.md",
     "Mass renaming downloaded comics.md",
     "Untitled.canvas",
     "2024-03-26.md",
     "Untitled 1.canvas",
     "Have Siri read PDF aloud on Mac.md",
-    "Uninstall UI.Vision XModules.md",
-    "Command to zip multiple directories into individual zip files.md",
     "markdown.md",
     "Remove existing .DS_Store from a directory.md",
     "Untitled 1.md"
