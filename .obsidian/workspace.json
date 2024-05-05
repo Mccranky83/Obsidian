@@ -141,14 +141,21 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "a9b81e1630b86873",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,8 +167,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2866f4194ccd59f7",
+  "active": "a9b81e1630b86873",
   "lastOpenFiles": [
+    "README.md",
     "Have Siri read PDF aloud on Mac.md",
     "Uninstall UI.Vision XModules.md",
     "Reset macOS's Accessibility permissions.md",
