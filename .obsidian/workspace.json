@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Update all Python Packages.md",
+                "file": "Have Siri read PDF aloud on Mac.md",
                 "mode": "preview",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5,
-    "collapsed": true
+    "width": 272.5
   },
   "right": {
     "id": "1f86f3177d833d09",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Update all Python Packages.md",
+                "file": "Have Siri read PDF aloud on Mac.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Update all Python Packages.md",
+                "file": "Have Siri read PDF aloud on Mac.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Update all Python Packages.md"
+                "file": "Have Siri read PDF aloud on Mac.md"
               }
             }
           },
@@ -167,20 +166,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9b81e1630b86873",
+  "active": "2866f4194ccd59f7",
   "lastOpenFiles": [
+    "Command to zip multiple directories into individual zip files.md",
+    "Mass renaming downloaded comics.md",
     "README.md",
+    "Remove existing .DS_Store from a directory.md",
+    "Reset macOS's Accessibility permissions.md",
+    "Update all Python Packages.md",
     "Have Siri read PDF aloud on Mac.md",
     "Uninstall UI.Vision XModules.md",
-    "Reset macOS's Accessibility permissions.md",
-    "Command to zip multiple directories into individual zip files.md",
-    "Update all Python Packages.md",
-    "Mass renaming downloaded comics.md",
     "Untitled.canvas",
     "2024-03-26.md",
     "Untitled 1.canvas",
     "markdown.md",
-    "Remove existing .DS_Store from a directory.md",
     "Untitled 1.md"
   ]
 }
