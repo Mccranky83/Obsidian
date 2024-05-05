@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "898f3db19dc7a21d",
+        "id": "7a857fec0dbb5fa2",
         "type": "tabs",
         "children": [
           {
-            "id": "cd00cc4d5b8cda4e",
+            "id": "2866f4194ccd59f7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Update all Python Packages.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Update all Python Packages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Update all Python Packages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Update all Python Packages.md"
+              }
             }
           },
           {
@@ -152,17 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd00cc4d5b8cda4e",
+  "active": "2866f4194ccd59f7",
   "lastOpenFiles": [
+    "Have Siri read PDF aloud on Mac.md",
+    "Uninstall UI.Vision XModules.md",
     "Reset macOS's Accessibility permissions.md",
     "Command to zip multiple directories into individual zip files.md",
     "Update all Python Packages.md",
     "Mass renaming downloaded comics.md",
-    "Uninstall UI.Vision XModules.md",
     "Untitled.canvas",
     "2024-03-26.md",
     "Untitled 1.canvas",
-    "Have Siri read PDF aloud on Mac.md",
     "markdown.md",
     "Remove existing .DS_Store from a directory.md",
     "Untitled 1.md"
