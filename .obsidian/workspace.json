@@ -11,8 +11,12 @@
             "id": "4efdb846f49a8044",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Update submodules in Git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Update submodules in Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Update submodules in Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Update submodules in Git.md"
+              }
             }
           },
           {
@@ -160,6 +168,7 @@
   },
   "active": "4efdb846f49a8044",
   "lastOpenFiles": [
+    "Update submodules in Git.md",
     "Convert MOV to MP4 with FFmpeg.md",
     "Have Siri read PDF aloud on Mac.md",
     "Command to zip multiple directories into individual zip files.md",
