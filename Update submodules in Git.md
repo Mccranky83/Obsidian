@@ -1,3 +1,5 @@
+> Only works interchangeably when submodules each have only one branch
+
 Method 1:
 ```sh
 git submodule foreach --recursive git pull
