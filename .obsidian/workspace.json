@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7a857fec0dbb5fa2",
+        "id": "e974c06e34e9c3c9",
         "type": "tabs",
         "children": [
           {
-            "id": "2866f4194ccd59f7",
+            "id": "4efdb846f49a8044",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Have Siri read PDF aloud on Mac.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Have Siri read PDF aloud on Mac.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Have Siri read PDF aloud on Mac.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Have Siri read PDF aloud on Mac.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,15 +158,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2866f4194ccd59f7",
+  "active": "4efdb846f49a8044",
   "lastOpenFiles": [
+    "Convert MOV to MP4 with FFmpeg.md",
+    "Have Siri read PDF aloud on Mac.md",
     "Command to zip multiple directories into individual zip files.md",
     "Mass renaming downloaded comics.md",
     "README.md",
     "Remove existing .DS_Store from a directory.md",
     "Reset macOS's Accessibility permissions.md",
     "Update all Python Packages.md",
-    "Have Siri read PDF aloud on Mac.md",
     "Uninstall UI.Vision XModules.md",
     "Untitled.canvas",
     "2024-03-26.md",
