@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indirect expansion in Bash.md",
+                "file": "Reset macOS's Accessibility permissions.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indirect expansion in Bash.md",
+                "file": "Reset macOS's Accessibility permissions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indirect expansion in Bash.md",
+                "file": "Reset macOS's Accessibility permissions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indirect expansion in Bash.md"
+                "file": "Reset macOS's Accessibility permissions.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "4efdb846f49a8044",
   "lastOpenFiles": [
+    "Indirect expansion in Bash.md",
     "Have Siri read PDF aloud on Mac.md",
     "Update submodules in Git.md",
     "Convert MOV to MP4 with FFmpeg.md",
