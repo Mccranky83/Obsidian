@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reset macOS's Accessibility permissions.md",
+                "file": "Mass renaming downloaded comics.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reset macOS's Accessibility permissions.md",
+                "file": "Mass renaming downloaded comics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reset macOS's Accessibility permissions.md",
+                "file": "Mass renaming downloaded comics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reset macOS's Accessibility permissions.md"
+                "file": "Mass renaming downloaded comics.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "4efdb846f49a8044",
   "lastOpenFiles": [
+    "Reset macOS's Accessibility permissions.md",
     "Indirect expansion in Bash.md",
     "Have Siri read PDF aloud on Mac.md",
     "Update submodules in Git.md",
@@ -176,7 +177,6 @@
     "Mass renaming downloaded comics.md",
     "README.md",
     "Remove existing .DS_Store from a directory.md",
-    "Reset macOS's Accessibility permissions.md",
     "Update all Python Packages.md",
     "Uninstall UI.Vision XModules.md",
     "Untitled.canvas",
