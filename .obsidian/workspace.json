@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mass renaming downloaded comics.md",
+                "file": "Repeat sequence in printf.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mass renaming downloaded comics.md",
+                "file": "Repeat sequence in printf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mass renaming downloaded comics.md",
+                "file": "Repeat sequence in printf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mass renaming downloaded comics.md"
+                "file": "Repeat sequence in printf.md"
               }
             }
           },
@@ -168,13 +168,14 @@
   },
   "active": "4efdb846f49a8044",
   "lastOpenFiles": [
+    "Mass renaming downloaded comics.md",
+    "Repeat sequence in printf.md",
     "Reset macOS's Accessibility permissions.md",
     "Indirect expansion in Bash.md",
     "Have Siri read PDF aloud on Mac.md",
     "Update submodules in Git.md",
     "Convert MOV to MP4 with FFmpeg.md",
     "Command to zip multiple directories into individual zip files.md",
-    "Mass renaming downloaded comics.md",
     "README.md",
     "Remove existing .DS_Store from a directory.md",
     "Update all Python Packages.md",
