@@ -46,3 +46,7 @@ he
 
 ```
 
+##### Extra:
+Switch out some sections of the snippet and test it out if you can:
+1. `IFS='h'` and `${list[@]}` (or `${list[*]}`, doesn't matter which, as long as no double quotes): Array expansion re-splitting.
+2. 
