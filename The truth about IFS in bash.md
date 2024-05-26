@@ -12,26 +12,19 @@ read -ra list <<<$hello
 printf "%s\n" ${list[@]}
 ```
 
-`$hello` gets word split based on the current value of IFS, which are `[l:o]`:
+`$hello` gets word split based on the current value of IFS, which are 'l', 'o', and ':':
 
 ```
-hel
-l
-o:worl
-d:hel
-l
-o:worl
-d:hel
-l
-o
+hel l o : wo rl d: hel l o : wo rl d: hel l o
 ```
 
-Because 'l' is currently the IFS, so it won't show, resulting in something close to this:
+The whitespace here is used to indicate that the string has been split up into several arguments by the IFS. In reality, 'l', 'o', and ':' are literal values and won't be displayed without being wrapped in double quotes.
+
+Because 'l' is currently the IFS, it's literal value won't be displayed, and it leaves behind a blank space:
 
 ```
-he
-
-o:wor
+he    w r d he    w r d he
+he o:wor
 d:he
 
 o:wor
