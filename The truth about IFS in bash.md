@@ -1,0 +1,1 @@
+IFS works like `[:cl:]`

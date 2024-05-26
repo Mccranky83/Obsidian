@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4efdb846f49a8044",
+            "id": "03082ecd1627c362",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Control Commands.md",
-                "mode": "preview",
+                "file": "The truth about IFS in bash.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Control Commands.md",
+                "file": "The truth about IFS in bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Control Commands.md",
+                "file": "The truth about IFS in bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Control Commands.md"
+                "file": "The truth about IFS in bash.md"
               }
             }
           },
@@ -166,8 +166,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4efdb846f49a8044",
+  "active": "a9b81e1630b86873",
   "lastOpenFiles": [
+    "Control Commands.md",
+    "The truth about IFS in bash.md",
     "Repeat sequence in printf.md",
     "Mass renaming downloaded comics.md",
     "Reset macOS's Accessibility permissions.md",

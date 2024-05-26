@@ -17,4 +17,4 @@ nmap <C-o> :back
 exmap forward obcommand app:go-forward
 nmap <C-i> :forward
 imap jk <Esc>
-imap JK <Esc> 
+imap jj <Esc> 
