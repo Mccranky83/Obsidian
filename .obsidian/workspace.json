@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e974c06e34e9c3c9",
+        "id": "5c0a23c049c91d56",
         "type": "tabs",
         "children": [
           {
-            "id": "03082ecd1627c362",
+            "id": "adbbabcc50cd661d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The truth about IFS in bash.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The truth about IFS in bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The truth about IFS in bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "The truth about IFS in bash.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,10 +158,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03082ecd1627c362",
+  "active": "bbe1f70046beaeca",
   "lastOpenFiles": [
-    "Reset macOS's Accessibility permissions.md",
+    "Untitled.md",
     "The truth about IFS in bash.md",
+    "Reset macOS's Accessibility permissions.md",
     "Update all Python Packages.md",
     "Convert MOV to MP4 with FFmpeg.md",
     "Control Commands.md",

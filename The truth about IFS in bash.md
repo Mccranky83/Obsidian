@@ -1,4 +1,4 @@
-I'll showcase a few points I digged up about the Internal Field Separator, with the help of an example:
+I'll showcase a few points I dug up about the Internal Field Separator, with the help of an example:
 
 ```bash
 #!/usr/bin/env -S bash
@@ -27,13 +27,13 @@ he    w r d he    w r d he
 The final result is this, a total 17 elements in the list:
 
 ```
-he
-
-
-
-w
-r
-d
+he(l)
+(l)
+(o)
+(:)
+w(o)
+r(l)
+d(:)
 he
 
 
@@ -47,6 +47,9 @@ he
 ```
 
 ##### Extra:
+
 Switch out some sections of the snippet and test it out if you can:
-1. `IFS='h'` and `${list[@]}` (or `${list[*]}`, doesn't matter which, as long as no double quotes): Array expansion re-splitting.
-2. 
+
+1. `${list[@]}` (or `${list[*]}`, doesn't matter which, as long as no double quotes): Array expansion re-splitting.
+2. With or without `\n` in the format specifier.
+3. `IFS='h'` and `"${list[*]}"`.
