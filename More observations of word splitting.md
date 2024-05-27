@@ -40,6 +40,5 @@ Both `${list[*]}` and `${list[@]}` are prone to re-splitting the array.
 
 ##### Summary
 
-1. Last array element truncated
-2. Array elements concatenated with the first character of `IFS`, and treated as one whole string (as demonstrated by `*` at the end)
-   1. Last array element truncated
+1. `he~~l~~ \* ~~l~~ \* ~~o~~`
+2. Array elements concatenated with the first character of `IFS`, and treated as one whole string (as demonstrated by `*` at the end). Last array element was truncated.
