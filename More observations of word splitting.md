@@ -34,6 +34,6 @@ However, mind that the `read` command reads one line at a time. If the string is
 
 Both `${list[*]}` and `${list[@]}` are prone to re-splitting the array.
 
-| `IFS` \ `printf "%s*" <..>` |                         `${list[*]}`                          | `${list[@]}` |         `"${list[@]}"`          | `"${list[*]}"` |
-| :-------------------------: | :-----------------------------------------------------------: | :----------: | :-----------------------------: | -------------- |
-|         `IFS="lo:"`         | `he****w*r*d*he****w*r*d*he**` (last list item truncated) (1) |     (1)      | `he****w*r*d*he****w*r*d*he***` |
+| `IFS` \ `printf "%s*" <..>` |                         `${list[*]}`                          | `${list[@]}` | `"${list[*]}"` |         `"${list[@]}"`          |
+| :-------------------------: | :-----------------------------------------------------------: | :----------: | -------------- | :-----------------------------: |
+|         `IFS="lo:"`         | `he****w*r*d*he****w*r*d*he**` (last list item truncated) (1) |     (1)      |                | `he****w*r*d*he****w*r*d*he***` |
