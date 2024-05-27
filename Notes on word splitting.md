@@ -9,7 +9,7 @@ IFS="lo:"
 
 read -ra list <<<"$hello"
 
-printf "%s\n" ${list[*]}
+printf "%s*" "${list[*]}"
 ```
 
 1. [Double quotes](#double-quotes)
@@ -37,12 +37,12 @@ Both `${list[*]}` and `${list[@]}` are prone to re-splitting the array.
 | `IFS` \ `printf "%s*" <..>` |                  `${list[*]}`                  |  `${list[@]}`   | `"${list[*]}"`                                  |                 `"${list[@]}"`                  |
 | :-------------------------: | :--------------------------------------------: | :-------------: | ----------------------------------------------- | :---------------------------------------------: |
 |         `IFS="lo:"`         | `he****w*r*d*he****w*r*d*he**` [(1)](#summary) | [(1)](#summary) | `hellllwlrldlhellllwlrldlhell*` [(2)](#summary) | `he****w*r*d*he****w*r*d*he***` [(3)](#summary) |
-|           `IFS=`            |                                                |                 | [(2)](#summary)                                 |                 [(3)](#summary)                 |
+|           `IFS=`            |    `he*w*r*d*he*w*r*d*he*` [(4)](#summary)     | [(4)](#summary) | [(2)](#summary)                                 |                 [(3)](#summary)                 |
 
 ##### Summary
 
-- `IFS="lo:"` (re-splitting does not occur)
+- `IFS="lo:"`
   1. `*` acts like a delimiter, and fills the gap between each array element. Eg: he~~l~~ \* ~~l~~ \* ~~o~~
   2. The first character of `IFS`, which happens to be `l`, serves as the delimiter for the array elements. The whole string is treated as one element, thus `*` is appended to the very end.
   3. `*` acts normally and is appended to each array element. Eg: he~~l~~ \* ~~l~~ \* ~~o~~ \*
-- `IFS=` (re-splitting occurs)
+- `IFS=`: The effect this has on word splitting seems to be that it squeezes multiple blank arguments into one.
