@@ -11,8 +11,12 @@
             "id": "adbbabcc50cd661d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "The truth about IFS in bash.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The truth about IFS in bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The truth about IFS in bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The truth about IFS in bash.md"
+              }
             }
           },
           {
@@ -158,9 +166,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bbe1f70046beaeca",
+  "active": "adbbabcc50cd661d",
   "lastOpenFiles": [
-    "Untitled.md",
+    "More observations about word splitting.md",
+    "More observations of word splitting.md",
     "The truth about IFS in bash.md",
     "Reset macOS's Accessibility permissions.md",
     "Update all Python Packages.md",
