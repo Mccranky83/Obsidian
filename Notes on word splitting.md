@@ -41,5 +41,5 @@ Both `${list[*]}` and `${list[@]}` are prone to re-splitting the array.
 ##### Summary
 
 1. `*` acts like a delimiter, and fills the gap between each array element. Eg: he~~l~~ \* ~~l~~ \* ~~o~~
-2.
+2. The first character of `IFS`, which happens to be `l`, serves as the delimiter for the array elements. The whole string is treated as one element, thus `*` is appended to the very end.
 3. `*` acts normally and is appended to each array element. Eg: he~~l~~ \* ~~l~~ \* ~~o~~ \*
