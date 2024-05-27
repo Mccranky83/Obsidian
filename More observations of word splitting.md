@@ -34,6 +34,12 @@ However, mind that the `read` command reads one line at a time. If the string is
 
 Both `${list[*]}` and `${list[@]}` are prone to re-splitting the array.
 
-| `IFS` \ `printf "%s*" <..>` |                         `${list[*]}`                          | `${list[@]}` | `"${list[*]}"` |         `"${list[@]}"`          |
-| :-------------------------: | :-----------------------------------------------------------: | :----------: | -------------- | :-----------------------------: |
-|         `IFS="lo:"`         | `he****w*r*d*he****w*r*d*he**` (last list item truncated) (1) |     (1)      |                | `he****w*r*d*he****w*r*d*he***` |
+| `IFS` \ `printf "%s*" <..>` |                  `${list[*]}`                  |  `${list[@]}`   | `"${list[*]}"`                                  |                 `"${list[@]}"`                  |
+| :-------------------------: | :--------------------------------------------: | :-------------: | ----------------------------------------------- | :---------------------------------------------: |
+|         `IFS="lo:"`         | `he****w*r*d*he****w*r*d*he**` [(1)](#summary) | [(1)](#summary) | `hellllwlrldlhellllwlrldlhell*` [(2)](#summary) | `he****w*r*d*he****w*r*d*he***` [(3)](#summary) |
+
+##### Summary
+
+1. Last array element truncated
+2. Array elements concatenated with the first character of `IFS`, and treated as one whole string (as demonstrated by `*` at the end)
+   1. Last array element truncated
