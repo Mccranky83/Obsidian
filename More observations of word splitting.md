@@ -34,4 +34,6 @@ However, mind that the `read` command reads one line at a time. If the string is
 
 Both `${list[*]}` and `${list[@]}` are prone to re-splitting the array.
 
-| `${list[*]}` | `${list[@]}` | `${list[@]}` | `"${list[*]}"` |
+|                        |          `${list[*]}`          | `${list[@]}` | `"${list[@]}"` | `"${list[*]}"` |
+| :--------------------: | :----------------------------: | :----------: | :------------: | -------------- |
+| `IFS="lo:"` -a `"%s*"` | `he****w*r*d*he****w*r*d*he**` |
