@@ -11,12 +11,8 @@
             "id": "adbbabcc50cd661d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on word splitting.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on word splitting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on word splitting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes on word splitting.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,8 +160,8 @@
   },
   "active": "adbbabcc50cd661d",
   "lastOpenFiles": [
-    "The truth about IFS in bash.md",
     "Notes on word splitting.md",
+    "The truth about IFS in bash.md",
     "More observations about word splitting.md",
     "Reset macOS's Accessibility permissions.md",
     "Update all Python Packages.md",
