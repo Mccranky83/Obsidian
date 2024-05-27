@@ -31,3 +31,7 @@ If `$hello` is wrapped with `""`, its literal value will be preserved. Without t
 However, mind that the `read` command reads one line at a time. If the string is multiline, `read` will only read the first line.
 
 #### Array expansion re-splitting
+
+Both `${list[*]}` and `${list[@]}` are prone to re-splitting the array.
+
+| `${list[*]}` | `${list[@]}` | `${list[@]}` | `"${list[*]}"` |
