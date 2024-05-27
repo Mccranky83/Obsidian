@@ -16,7 +16,7 @@ printf "%s\n" ${list[*]}
 2. [Bundling into an array](#bundling-into-an-array)
 3. [Array expansion re-splitting](#array-expansion-re-splitting)
 
-#### <a id="double-quotes">Double quotes</a>
+#### Double quotes
 
 If `$hello` is wrapped with `""`, its literal value will be preserved. Without them, IFS characters will be displayed as blanks spots.
 
