@@ -11,8 +11,12 @@
             "id": "adbbabcc50cd661d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mass renaming downloaded comics.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mass renaming downloaded comics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mass renaming downloaded comics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mass renaming downloaded comics.md"
+              }
             }
           },
           {
@@ -160,6 +168,7 @@
   },
   "active": "adbbabcc50cd661d",
   "lastOpenFiles": [
+    "README.md",
     "Notes on word splitting.md",
     "The truth about IFS in bash.md",
     "More observations about word splitting.md",
@@ -173,7 +182,6 @@
     "Have Siri read PDF aloud on Mac.md",
     "Update submodules in Git.md",
     "Command to zip multiple directories into individual zip files.md",
-    "README.md",
     "Remove existing .DS_Store from a directory.md",
     "Uninstall UI.Vision XModules.md",
     "Untitled.canvas",
