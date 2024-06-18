@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "629c9c87f00d564b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,7 +166,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "629c9c87f00d564b",
+  "active": "adbbabcc50cd661d",
   "lastOpenFiles": [
     "Update submodules in Git.md",
     "Update all Python Packages.md",
