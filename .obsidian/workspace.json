@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "76ef5c06c914cdf7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +177,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "adbbabcc50cd661d",
+  "active": "76ef5c06c914cdf7",
   "lastOpenFiles": [
     "Mass renaming downloaded comics.md",
     "Update submodules in Git.md",
