@@ -6,7 +6,7 @@
 | forward-delete-char       |      `<C-d>`       |
 | cursor-forward-delete     |      `<C-k>`       |
 | next-suggestion           |      `<C-n>`       |
-| past-suggestion           |      `<C-p>`       |
+| previous-suggestion       |      `<C-p>`       |
 | cursor-character-backward | `<C-b>` or `<C-o>` |
 | cursor-character-forward  |      `<C-f>`       |
 | cursor-line-front         |      `<C-a>`       |

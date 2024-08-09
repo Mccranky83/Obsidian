@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Update all Python Packages.md",
+                "file": "Reset macOS's Accessibility permissions.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "76ef5c06c914cdf7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Update all Python Packages.md",
+                "file": "Reset macOS's Accessibility permissions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Update all Python Packages.md",
+                "file": "Reset macOS's Accessibility permissions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Update all Python Packages.md"
+                "file": "Reset macOS's Accessibility permissions.md"
               }
             }
           },
@@ -177,20 +166,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76ef5c06c914cdf7",
+  "active": "adbbabcc50cd661d",
   "lastOpenFiles": [
+    "Update all Python Packages.md",
+    "Remove existing .DS_Store from a directory.md",
+    "Repeat sequence in printf.md",
+    "Command to zip multiple directories into individual zip files.md",
+    "Control Commands.md",
     "Mass renaming downloaded comics.md",
     "Update submodules in Git.md",
-    "Update all Python Packages.md",
     "Reset macOS's Accessibility permissions.md",
-    "Repeat sequence in printf.md",
-    "Remove existing .DS_Store from a directory.md",
     "README.md",
     "Indirect expansion in Bash.md",
     "Have Siri read PDF aloud on Mac.md",
     "Convert MOV to MP4 with FFmpeg.md",
-    "Control Commands.md",
-    "Command to zip multiple directories into individual zip files.md",
     "Notes on word splitting.md",
     "The truth about IFS in bash.md",
     "More observations about word splitting.md",
